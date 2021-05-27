@@ -34,7 +34,12 @@ body {
 .color-orange {
     color: #fd7e14;
 }
-
+.bd-orange-100 {
+    background-color: #ffe5d0;
+}
+.bd-yellow-100 {
+    background-color: #fff3cd;
+}
 
 
 
