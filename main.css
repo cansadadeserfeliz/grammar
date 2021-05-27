@@ -1,0 +1,18 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.9rem;
+}
+
+.rule-list {
+    list-style-type: square;
+}
+.example-list {
+    list-style-type: circle;
+}
+
+.color-purple {
+    color: #6f42c1;
+}
+.color-teal {
+    color: #20c997 ;
+}
