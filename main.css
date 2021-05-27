@@ -9,10 +9,32 @@ body {
 .example-list {
     list-style-type: circle;
 }
+.example-list li {
+    font-style: italic;
+}
+.rule-comparison {
+    background-color: #e9ecef;
+}
 
+.bd-purple-100 {
+    background-color: #e2d9f3;
+}
+.bd-blue-100 {
+    background-color: #cfe2ff;
+}
+.color-indigo {
+    color: #6610f2;
+}
 .color-purple {
     color: #6f42c1;
 }
 .color-teal {
     color: #20c997 ;
 }
+.color-orange {
+    color: #fd7e14;
+}
+
+
+
+
