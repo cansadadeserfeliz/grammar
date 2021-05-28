@@ -65,7 +65,13 @@ h1, h2, h3, h4, h5, h6 {
     color: #e35d6a;
 }
 .color-teal {
-    color: #20c997 ;
+    color: #20c997;
+}
+.bd-teal-100 {
+    background-color: #d2f4ea;
+}
+.bd-teal-300 {
+    background-color: #79dfc1;
 }
 .color-orange {
     color: #fd7e14;
