@@ -99,7 +99,6 @@ h1, h2, h3, h4, h5, h6 {
     height: 500px;
 }
 .table-subjuntivo thead tr:nth-child(1) th {
-    background: white;
     position: sticky;
     top: 0;
     z-index: 10;
