@@ -64,6 +64,9 @@ h1, h2, h3, h4, h5, h6 {
 .bd-blue-100 {
     background-color: #cfe2ff;
 }
+.bd-cyan-100 {
+    background-color: #cff4fc;
+}
 .color-indigo {
     color: #6610f2;
 }
