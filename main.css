@@ -49,6 +49,15 @@ h1, h2, h3, h4, h5, h6 {
     color: #e35d6a;
 }
 
+.indicative {
+    color: #fd7e14;
+    font-style: italic;
+    font-weight: bold;
+}
+.subjunctive-indicative-difference {
+    color: #fd9843;
+}
+
 .bd-purple-100 {
     background-color: #e2d9f3;
 }
@@ -86,11 +95,11 @@ h1, h2, h3, h4, h5, h6 {
     background-color: #fff3cd;
 }
 
-.table-subjuntivo-wrapper {
+.table-subjunctive-wrapper {
     overflow: auto;
     height: 500px;
 }
-.table-subjuntivo thead tr:nth-child(1) th {
+.table-subjunctive thead tr:nth-child(1) th {
     background-color: #fff3cd;
     position: sticky;
     top: 0;
