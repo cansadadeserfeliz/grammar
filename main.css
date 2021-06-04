@@ -85,3 +85,11 @@ h1, h2, h3, h4, h5, h6 {
 .bd-yellow-100 {
     background-color: #fff3cd;
 }
+
+.table-subjuntivo thead tr th:first-child,
+.table-subjuntivo tbody tr td:first-child {
+  width: 200px;
+  min-width: 200px;
+  max-width: 200px;
+  word-break: break-all;
+}
