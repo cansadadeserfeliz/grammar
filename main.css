@@ -50,12 +50,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .indicative {
-    color: #fd7e14;
+    color: #d63384;
     font-style: italic;
     font-weight: bold;
 }
 .subjunctive-indicative-difference {
-    color: #fd9843;
+    color: #de5c9d;
 }
 
 .bd-purple-100 {
@@ -100,7 +100,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .table-subjunctive-wrapper {
     overflow: auto;
-    height: 500px;
+    height: 700px;
 }
 .table-subjunctive thead tr:nth-child(1) th {
     background-color: #fff3cd;
