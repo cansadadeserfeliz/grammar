@@ -30,12 +30,14 @@ h1, h2, h3, h4, h5, h6 {
 .rule-list {
     list-style-type: square;
 }
-.example-list {
-    list-style-type: circle;
-}
+
 .example-list li {
     font-style: italic;
 }
+ul.example-list {
+    list-style-type: circle;
+}
+
 .rule-comparison {
     background-color: #e9ecef;
 }
@@ -97,7 +99,7 @@ h1, h2, h3, h4, h5, h6 {
     background-color: #fff3cd;
 }
 
-.table-subjunctive thead tr:nth-child(1) th {
+.table-fixed-header thead tr:nth-child(1) th {
     background-color: #fff3cd;
     position: sticky;
     top: 0;
