@@ -112,3 +112,13 @@ ul.example-list {
 .table-50-50 th, td{
     width: 50%;
 }
+
+.table-english-spanish-tenses {
+    width: 100%;
+}
+.table-50-50 th:nth-child(1), td:nth-child(1){
+    width: 100px;
+}
+.table-50-50 th:nth-child(2), td:nth-child(2), th:nth-child(3), td:nth-child(3){
+    width: 50%;
+}
