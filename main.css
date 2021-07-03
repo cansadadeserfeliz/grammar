@@ -46,7 +46,7 @@ ul.example-list {
     font-style: italic;
     font-weight: bold;
 }
-.spanish-english-mismatch {
+.mismatch {
     color: #e35d6a;
 }
 
@@ -104,4 +104,11 @@ ul.example-list {
     position: sticky;
     top: 0;
     z-index: 10;
+}
+
+.table-50-50 {
+    width: 100%;
+}
+.table-50-50 th, td{
+    width: 50%;
 }
