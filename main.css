@@ -109,16 +109,29 @@ ul.example-list {
 .table-50-50 {
     width: 100%;
 }
-.table-50-50 th, td{
+.table-50-50 th,
+.table-50-50 td {
     width: 50%;
+}
+
+.table-subjunctive {
+    width: 100%;
+}
+.table-subjunctive th,
+.table-subjunctive td{
+    width: 20%;
 }
 
 .table-english-spanish-tenses {
     width: 100%;
 }
-.table-50-50 th:nth-child(1), td:nth-child(1){
+.table-english-spanish-tenses th:nth-child(1),
+.table-english-spanish-tenses td:nth-child(1){
     width: 100px;
 }
-.table-50-50 th:nth-child(2), td:nth-child(2), th:nth-child(3), td:nth-child(3){
+.table-english-spanish-tenses th:nth-child(2),
+.table-english-spanish-tenses td:nth-child(2),
+.table-english-spanish-tenses th:nth-child(3),
+.table-english-spanish-tenses td:nth-child(3) {
     width: 50%;
 }
