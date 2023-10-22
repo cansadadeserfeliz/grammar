@@ -157,6 +157,7 @@ ul.example-list {
 
 .table-conjugations {
     font-size: 0.8rem;
+    width: auto;
 }
 .table-conjugations td:nth-child(1) {
     font-style: italic;
