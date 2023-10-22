@@ -162,3 +162,11 @@ ul.example-list {
 .table-conjugations td:nth-child(1) {
     font-style: italic;
 }
+
+.table-verb-forms {
+    font-size: 0.8rem;
+    width: auto!important;
+}
+.table-verb-forms td:nth-child(even) {
+    font-weight: bold;
+}
