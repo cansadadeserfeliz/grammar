@@ -31,6 +31,11 @@ h1, h2, h3, h4, h5, h6 {
     list-style-type: square;
 }
 
+.grammar-formula {
+    font-family: 'Alkatra', 'Open Sans', sans-serif;
+    font-size: 1.5rem;
+}
+
 .example-list li {
     font-style: italic;
 }
@@ -40,6 +45,11 @@ ul.example-list {
 
 .rule-comparison {
     background-color: #e9ecef;
+}
+.french {
+    color: #9d7ed5;
+    font-style: italic;
+    font-weight: bold;
 }
 .english {
     color: #e35d6a;
@@ -143,4 +153,11 @@ ul.example-list {
 .table-english-spanish-tenses th:nth-child(3),
 .table-english-spanish-tenses td:nth-child(3) {
     width: 50%;
+}
+
+.table-conjugations {
+    font-size: 0.8rem;
+}
+.table-conjugations td:nth-child(1) {
+    font-style: italic;
 }
