@@ -98,6 +98,15 @@ ul.example-list {
 .bd-yellow-100 {
     background-color: #fff3cd;
 }
+.bd-purple-100 {
+    background-color: #cbbbe9;
+}
+.bd-purple-200 {
+    background-color: #b49ddf;
+}
+.bd-purple-300 {
+    background-color: #9d7ed5;
+}
 
 .table-fixed-header thead tr:nth-child(1) th {
     background-color: #fff3cd;
