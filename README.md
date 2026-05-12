@@ -6,4 +6,4 @@ Tablas gramaticales.
 Spanish grammar Cheat Sheet.
 
 
-**Website**: https://grammar.cansadadeserfeliz.com/
+**Website**: [https://grammar.cansadadeserfeliz.com/](https://cansadadeserfeliz.github.io/grammar)
